@@ -1,0 +1,21 @@
+{
+  "name": "greeting",
+  "version": "1.0.0",
+  "description": "crashtravel",
+  "main": "hello.js",
+  "dependencies": {
+    "course-utilities": "^1.0.0",
+    "crashtravel-utilities": "^1.0.0",
+    "jest": "^26.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "crashtravel"
+  },
+  "author": "abel@mit.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crashtravel/greeting/issues"
+  },
+  "homepage": "https://github.com/crashtravel/greeting#readme"
+}
