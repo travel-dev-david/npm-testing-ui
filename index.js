@@ -1,3 +1,3 @@
-module.exports.crashtravel = function () {
-    return "crashtravel"
+function hello() {
+  return "Hello World!";
 }
